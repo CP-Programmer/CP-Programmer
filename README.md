@@ -2,3 +2,6 @@
 - Welcome to my GitHub page
 - Be sure to follow my GitHub and YouTube page
 - 
+- youtube : https://www.youtube.com/channel/UCRXNhQ6SIMU3-vzOnE_a8Nw
+- twitter : https://twitter.com/CaptainProgram3
+- github : https://github.com/CP-Programmer
